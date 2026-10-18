@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74d4970646a7e23b2c101cc74cabd2, type: 3}
+  m_Name: Level_10
+  m_EditorClassIdentifier: 
+  levelSerial: 10
+  levelName: Helsinki
+  mapCoords: {x: 1522, y: 780}
+  deliverCount: 11
+  gameplayTime: 500
+  startingStockArray:
+  - kitchenObjectSO: {fileID: 11400000, guid: 886d022aa132bd5708533e3fbba553f8, type: 2}
+    amount: 0
+  - kitchenObjectSO: {fileID: 11400000, guid: 1995171309a4ede4abe452d5ecfcd56a, type: 2}
+    amount: 0
+  - kitchenObjectSO: {fileID: 11400000, guid: 96ad0cb1ef6c212d49d357df8a382e72, type: 2}
+    amount: 0
+  - kitchenObjectSO: {fileID: 11400000, guid: 3f758e5e85d355c4dadb775cdcf8c62f, type: 2}
+    amount: 0
+  - kitchenObjectSO: {fileID: 11400000, guid: 70ffbbb529a2958a5a1da5bacf3659ab, type: 2}
+    amount: 0
+  slot1: 0
+  slot2: 1
+  slot3: 0
+  slot4: 2
+  slot5: 0
+  slot6: 3
+  slot7: 0
+  slot8: 4
+  slot9: 0
+  slot10: 5
+  slot11: 0
+  slot12: 6
+  slot13: 0
+  slot14: 7
+  slot15: 0

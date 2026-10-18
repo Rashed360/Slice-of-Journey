@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e34a5e20e46fe084caa9b5008c2dfe51, type: 3}
+  m_Name: MeatPizza
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 886d022aa132bd5708533e3fbba553f8, type: 2}
+  - {fileID: 11400000, guid: c1b405d2090dff34f9e49bb3153df2a5, type: 2}
+  - {fileID: 11400000, guid: e1c9fe65c5458d64a9b16ab4be6ac177, type: 2}
+  - {fileID: 11400000, guid: 56ca75a1801049b839d49a5940312569, type: 2}
+  recipeName: Meat Pizza
+  recipePrice: 110
+  recipeTime: 10
+  requiresBaking: 1

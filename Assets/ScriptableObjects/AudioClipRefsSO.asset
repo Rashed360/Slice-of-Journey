@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b59bc0606f50c04a9e3721c61231d60, type: 3}
+  m_Name: AudioClipRefsSO
+  m_EditorClassIdentifier: 
+  chop:
+  - {fileID: 8300000, guid: 266357578bd4d98d1ad049c528e37d9d, type: 3}
+  - {fileID: 8300000, guid: cf5cdc50078bf0735b24a0bc8f6594ba, type: 3}
+  - {fileID: 8300000, guid: 13db8e11d17eabf09bf0a66e86b92a89, type: 3}
+  deliveryFail:
+  - {fileID: 8300000, guid: 0a8bb9f71f44c4b2993bc81865045c24, type: 3}
+  - {fileID: 8300000, guid: 61ea930ec251b19adab6fed46f550452, type: 3}
+  deliverySuccess:
+  - {fileID: 8300000, guid: 19752f5c24d777d6e8056f8d0350c068, type: 3}
+  - {fileID: 8300000, guid: fb48511d2be6e5707bc364d6ae1958b8, type: 3}
+  footstep:
+  - {fileID: 8300000, guid: e55071f8ac4f7a486859fd1ffe50b29f, type: 3}
+  - {fileID: 8300000, guid: 162d12ecbce6b957b90b3e87516c649d, type: 3}
+  - {fileID: 8300000, guid: 685b4391d5d6777b0847572d5767ced3, type: 3}
+  - {fileID: 8300000, guid: bcc68c18a24e9dd85a65774f089c67aa, type: 3}
+  objectDrop:
+  - {fileID: 8300000, guid: d38eef5ae30eb4a0abdd9d37ae4dd098, type: 3}
+  - {fileID: 8300000, guid: 6fa70ebd4ab3ffe8c8712733c4f3f34d, type: 3}
+  - {fileID: 8300000, guid: 7f8d0dc02d0e58b79905ee8d791d605f, type: 3}
+  objectPickup:
+  - {fileID: 8300000, guid: fe22db7c27f865c16b4a7180a4ab67be, type: 3}
+  - {fileID: 8300000, guid: a1b1eb2bcfb939df8a1301ef37954f2c, type: 3}
+  - {fileID: 8300000, guid: cfce0d0816bcdf1e78b3f1e96f6d04ef, type: 3}
+  stoveSizzle:
+  - {fileID: 8300000, guid: 3d2d7904255a737099694f34ec187806, type: 3}
+  - {fileID: 8300000, guid: 746c87e9fedffd423b5ea73c3a58faf9, type: 3}
+  trash:
+  - {fileID: 8300000, guid: 95cc8c6fcc707120db22aee5b02e749f, type: 3}
+  - {fileID: 8300000, guid: e735d594ef41ec3f0bd3c3cf68fcdaa3, type: 3}
+  - {fileID: 8300000, guid: e0da8c99d23322a14ac5ee700e27b635, type: 3}
+  warning:
+  - {fileID: 8300000, guid: 1364a186ca700aa23aebc246fe14a087, type: 3}
+  - {fileID: 8300000, guid: 11bab92c9894c28e98f20f9e1ee0fd3c, type: 3}
+  chime:
+  - {fileID: 8300000, guid: 0d062eb57026fbdc0a005306c38e2fbe, type: 3}
+  - {fileID: 8300000, guid: 271fe53a44017c59c963b3d5f4684f12, type: 3}
